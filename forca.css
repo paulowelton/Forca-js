@@ -1,0 +1,23 @@
+.letrasAcertos{
+    display: flex;
+}
+.letrasErradas{
+    display: flex;
+}
+.vidas{
+    display: flex;
+}
+.containerLetra{
+    text-align: center;
+    font-size: 80px;
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 125px;
+}
+div{
+    font-size:25px;
+}
+img{
+    position: absolute;
+    
+}
